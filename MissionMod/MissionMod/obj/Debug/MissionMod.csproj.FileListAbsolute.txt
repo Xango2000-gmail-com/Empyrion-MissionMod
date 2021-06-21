@@ -1,0 +1,8 @@
+F:\Repos\MissionMod\MissionMod\bin\Debug\MissionMod.dll
+F:\Repos\MissionMod\MissionMod\bin\Debug\MissionMod.pdb
+F:\Repos\MissionMod\MissionMod\obj\Debug\MissionMod.csproj.CoreCompileInputs.cache
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\MissionControl\MissionControl.dll
+K:\SteamLauncher\steamapps\common\Empyrion - Dedicated Server\Content\Mods\MissionControl\MissionControl.pdb
+F:\Repos\MissionMod\MissionMod\obj\Debug\MissionControl.dll
+F:\Repos\MissionMod\MissionMod\obj\Debug\MissionControl.pdb
+F:\Repos\MissionMod\MissionMod\obj\Debug\MissionMod.csprojAssemblyReference.cache
